@@ -152,4 +152,4 @@ print(f"\nRecommended Movies similar to '{input_movie}':")
 for i, movie in enumerate(recommendations, 1):
     print(f"{i}. {movie}")
 
-this is the full code.
+
