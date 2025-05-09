@@ -53,3 +53,7 @@ Pandas / NumPy
 TF-IDF Vectorizer
 
 Cosine Similarity
+
+**The output looks like this**
+![WhatsApp Image 2025-04-28 at 22 02 01_fa2dca4a](https://github.com/user-attachments/assets/5d696887-1ef6-42ad-b77f-54cfda41af74)
+
